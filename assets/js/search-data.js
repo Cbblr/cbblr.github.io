@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "This is my CV. You can also download the PDF directly.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-teaching-responsibilities",
+          title: "Teaching responsibilities",
+          description: "Here are my teaching responsibilities, supervised bachelor&#39;s and master&#39;s theses, academic talks and projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
