@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jonas Genath",
-    "label": "AI Developer and Data Scientist",
+    "label": "AI Developer, Data Scientist, and Data Visualization Expert",
     "image": "",
     "email": "genath.jonas@gmail.com",
     "url": "https://cbblr.github.io/",
@@ -235,17 +235,6 @@
   ],
   "projects": [
     {
-      "name": "DaWiS",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2020-01-01",
-      "endDate": "2021-12-31",
-      "url": "https://example.com"
-    },
-    {
       "name": "AutoPING",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": [
@@ -254,6 +243,17 @@
       ],
       "startDate": "2022-01-01",
       "endDate": "2025-09-30",
+      "url": "https://example.com"
+    },
+    {
+      "name": "DaWiS",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
       "url": "https://example.com"
     }
   ]
