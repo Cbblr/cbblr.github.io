@@ -197,6 +197,7 @@ exclude:
   - _posts/
   - _pages/profiles.md
   - _pages/dropdown.md
+  - _pages/projects.md # remove later
 keep_files:
   - CNAME
   - .nojekyll

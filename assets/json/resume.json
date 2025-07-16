@@ -33,7 +33,7 @@
         "AI methods for simulation data analysis",
         "Integration of simulation and machine learning into operational IT infrastructures",
         "Visual analytics for simulation data analysis",
-        "Metalearning in the simulation context",
+        "Metalearning and XAI in the context of simulation",
         "Integration of an autograder into programming education",
         "Teaching responsibilities in the field of simulation and data science"
       ]
@@ -92,37 +92,16 @@
   "certificates": [
     {
       "name": "Certified qualification in sustainable process optimization with Six Sigma Yellow Belt.",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "date": "2016-01-15",
+      "issuer": "COMPLAVIS Akademie",
+      "url": "https://www.complavis.de",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Leadership in Science",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Statistical analysis of data",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Data management",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Machine Learning with Python",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "date": "2022-03-30",
+      "issuer": "Technical University of Ilmenau",
+      "url": "https://www.tu-ilmenau.de/",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -140,8 +119,8 @@
       ]
     },
     {
-      "name": "SQL",
-      "level": "Expert",
+      "name": "Databases and SQL",
+      "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "In regular use for data management for 5 years.",
@@ -159,6 +138,15 @@
         "R",
         "Java",
         "CSS (and HTML)"
+      ]
+    },
+    {
+      "name": "Technologies and Tools",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Docker",
+        "Git(Hub/Lab)"
       ]
     },
     {
@@ -181,6 +169,33 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "AutoPING",
+      "summary": "AutoPING demonstrates how modern programming education can be made more efficient and practical through automated assessment systems such as CodeOcean. The project promotes digital, competence-oriented learning, AI integration, and modular critical testing scenarios—valuable impetus for the further development of teaching at TU Ilmenau and beyond.",
+      "highlights": [
+        "Containerized automated assessment system",
+        "AI integration",
+        "Digital learning",
+        "Integration via the LMT interface"
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "2025-09-30",
+      "url": "https://example.com"
+    },
+    {
+      "name": "DaWiS",
+      "summary": "The aim of the project was to transfer the method of knowledge discovery in simulation data, which had previously been considered mainly in academic case studies in the field of production and logistics, into practice. To this end, smart experiment design methods were evaluated and implemented, methods for the (cloud-based) distribution of experiments were developed, and suitable data mining and visual analytics methods were implemented. These methods were designed and implemented in an integrated platform.",
+      "highlights": [
+        "Integrated into the commercial software SimAssist",
+        "Cloud-based execution of simulation experiments",
+        "Python interface developed for integration of Machine Learning methods"
+      ],
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "url": "https://example.com"
+    }
+  ],
   "languages": [
     {
       "language": "German",
@@ -195,15 +210,59 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Machine Learning and AI",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "XGBoost",
+        "Explainable AI",
+        "Generative AI",
+        "Large Language Models",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "icon": "fa-solid fa-chart-bar",
+      "keywords": [
+        "Real‑time Visualization",
+        "Interactive Visualizations",
+        "Animated Visualizations",
+        "Dashboards",
+        "Data Storytelling"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "A/B Testing",
+        "Big Data",
+        "Data Mining",
+        "Feature Engineering",
+        "Predictive Analytics",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-futbol",
+      "keywords": [
+        "Handball",
+        "Fitness",
+        "Hiking"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-music",
+      "keywords": [
+        "Hardstyle",
+        "Trance",
+        "Power-Metal"
       ]
     }
   ],
@@ -219,42 +278,6 @@
       "highlights": [
         "Advancing from the 'Landesliga' to the 'Oberliga' in the 2023/2024 season"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "AutoPING",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2022-01-01",
-      "endDate": "2025-09-30",
-      "url": "https://example.com"
-    },
-    {
-      "name": "DaWiS",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2020-01-01",
-      "endDate": "2021-12-31",
-      "url": "https://example.com"
     }
   ]
 }

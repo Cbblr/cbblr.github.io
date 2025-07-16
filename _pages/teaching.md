@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching responsibilities
+title: Teaching
 description: Here are my teaching responsibilities, supervised bachelor's and master's theses, academic talks and projects.
 nav: true
 nav_order: 6
 ---
+
+## Teaching responsibilities
 
 - **Simulation 1**
 Teaching the university course in the summer semesters of 2021–2024.
