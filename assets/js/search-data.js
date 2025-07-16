@@ -16,22 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is my CV. You can also download the PDF directly.",
+          description: "This is my Curriculum Vitae. You can also download the PDF directly.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching-responsibilities",
-          title: "Teaching responsibilities",
+        },{id: "nav-teaching",
+          title: "Teaching",
           description: "Here are my teaching responsibilities, supervised bachelor&#39;s and master&#39;s theses, academic talks and projects.",
           section: "Navigation",
           handler: () => {
@@ -103,7 +96,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6F%6E%61%73%67%6E%74%68@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%67%65%6E%61%74%68.%6A%6F%6E%61%73@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
