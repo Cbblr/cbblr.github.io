@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-scientific-service",
+          title: "Scientific Service",
+          description: "I have participated in the editing of journals and the review of conference papers and as the co-organisation of conferences.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/sientificservice/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
