@@ -18,15 +18,15 @@ New technical insights were gained and discussed, particularly in the areas of s
 
 ## Reviews
 
-- **WSC 2025**  
+- **Winter Simulation Conference 2025**  
 I was responsible for reviews as a member of the programme committee for the Hybrid Simulation and Data Science Track.
 In addition, I fulfilled the role of co-track chair for the data science track.
 
-- **WSC 2024** <br>
+- **Winter Simulation Conference 2024** <br>
 I was responsible for reviews as a member of the programme committee for the Hybrid Simulation and Data Science Track.
 In addition, i served as a session chair for the hybrid simulation track.
 
-- **WSC 2023** <br>
+- **Winter Simulation Conference 2023** <br>
 I was responsible for reviews as a member of the programme committee for the Hybrid Simulation Track.
 
 - **ASIM 2023**  
