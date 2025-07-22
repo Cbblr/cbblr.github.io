@@ -62,21 +62,35 @@
       "endDate": "2025-09-30",
       "score": "To be announced",
       "courses": [
-        "Automation within the process of knowledge discovery in simulation data"
+        "Doctoral thesis: Automation within the process of knowledge discovery in simulation data"
       ]
     },
     {
       "institution": "Technical University of Ilmenau",
       "location": "Ilmenau, Germany",
       "url": "https://www.tu-ilmenau.de/",
-      "area": "Data Science and Deep Learning",
+      "area": "Industrial Engineering",
       "studyType": "Master of Science",
-      "startDate": "2019-03-01",
-      "endDate": "2025-09-01",
+      "startDate": "2016-09-01",
+      "endDate": "2019-08-01",
       "score": "1.3",
       "courses": [
-        "Scagnostics mittels Deep Learning",
-        "Supply chain management and manufacturing technology"
+        "Specialization: Supply chain management and manufacturing technology",
+        "Master thesis: Scagnostics mittels Deep Learning"
+      ]
+    },
+    {
+      "institution": "Technical University of Ilmenau",
+      "location": "Ilmenau, Germany",
+      "url": "https://www.tu-ilmenau.de/",
+      "area": "Industrial Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-10-01",
+      "endDate": "2016-09-30",
+      "score": "2.3",
+      "courses": [
+        "Specialization: Mechanical engineering",
+        "Bachelor thesis: Discriminant analysis for forecasting nominal characteristics"
       ]
     }
   ],
