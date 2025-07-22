@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is my Curriculum Vitae. You can also download the PDF directly.
+description: This is my Curriculum Vitae. # You can also download the PDF directly.
 toc:
   sidebar: left
 ---
