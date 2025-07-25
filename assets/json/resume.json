@@ -24,6 +24,19 @@
   "work": [
     {
       "name": "Technical University of Ilmenau",
+      "position": "Research Assistant",
+      "url": "https://www.tu-ilmenau.de/en/universitaet/fakultaeten/fakultaet-wirtschaftswissenschaften-und-medien/profil/institute-und-fachgebiete/fachgebiet-informations-und-wissensmanagement/team/jonas-genath-m-sc",
+      "startDate": "2022-01-01",
+      "endDate": "2025-09-30",
+      "summary": "Group for Information and Knowledge Management (Werner Bischoff Building Room F1100).",
+      "highlights": [
+        "Integration of generative AI into an autograder to improve feedback for students in programming education",
+        "Digitization of programming education by introducing an autograder into the university IT infrastructure and developing unit and integration tests to check the programmed tasks",
+        "Teaching responsibilities include teaching beginners how to program with Python"
+      ]
+    },
+    {
+      "name": "Technical University of Ilmenau",
       "position": "Research Assistant and PhD Candidate",
       "url": "https://www.tu-ilmenau.de/en/university/departments/department-of-mechanical-engineering/profile/institutes-and-groups/group-for-information-in-production-and-logistics/team/jonas-genath-m-sc",
       "startDate": "2020-01-01",
@@ -34,8 +47,31 @@
         "Integration of simulation and machine learning into operational IT infrastructures",
         "Visual analytics for simulation data analysis",
         "Metalearning and XAI in the context of simulation",
-        "Integration of an autograder into programming education",
         "Teaching responsibilities in the field of simulation and data science"
+      ]
+    },
+    {
+      "name": "Technical University of Ilmenau",
+      "position": "Student assistant",
+      "url": "https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-maschinenbau/profil/institute-und-fachgebiete/fachgebiet-informationstechnik-in-produktion-und-logistik",
+      "startDate": "2018-10-01",
+      "endDate": "2019-03-31",
+      "summary": "Group for Information Technology in Production and Logistics (Werner Bischoff Building Room F1100).",
+      "highlights": [
+        "Teaching in the digital factory laboratory",
+        "Support in the creation of simulation models"
+      ]
+    },
+    {
+      "name": "REWE digital Ilmenau",
+      "position": "Working Student",
+      "url": "https://www.rewe-digital.com/de",
+      "startDate": "2018-03-01",
+      "endDate": "2018-09-30",
+      "summary": "E-Commerce Department",
+      "highlights": [
+        "Support with the introduction of algorithms for shopping basket analysis",
+        "Creation of scripts for evaluating sales data and validating product data"
       ]
     },
     {
@@ -43,7 +79,7 @@
       "position": "Internship as a production planner",
       "url": "https://www.bosch.com/",
       "startDate": "2015-09-01",
-      "endDate": "2016-03-30",
+      "endDate": "2016-03-31",
       "summary": "Sensor Production Department",
       "highlights": [
         "Implementation of a simulation model for the production process",
@@ -101,6 +137,13 @@
       "awarder": "Technical University of Ilmenau",
       "url": "https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-wirtschaftswissenschaften-und-medien/page",
       "summary": "Awarded for the best poster presentation at the department conference."
+    },
+    {
+      "title": "Best Paper Award Nominee",
+      "date": "2023-12-07",
+      "awarder": "Winter Simulation Conference",
+      "url": "https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-wirtschaftswissenschaften-und-medien/page",
+      "summary": "Nominated for best paper at the WSC."
     }
   ],
   "certificates": [
@@ -149,7 +192,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "JavaScript",
-        "R",
+        "Ruby",
         "Java",
         "CSS (and HTML)"
       ]
@@ -195,7 +238,7 @@
       ],
       "startDate": "2022-01-01",
       "endDate": "2025-09-30",
-      "url": "https://example.com"
+      "url": "https://www.tu-ilmenau.de/universitaet/quicklinks/zentralinstitut-fuer-bildung/ueber-uns/projekte/examing"
     },
     {
       "name": "DaWiS",
@@ -207,7 +250,14 @@
       ],
       "startDate": "2020-01-01",
       "endDate": "2021-12-31",
-      "url": "https://example.com"
+      "url": "https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-maschinenbau/profil/institute-und-fachgebiete/fachgebiet-informationstechnik-in-produktion-und-logistik/projekte/dawis"
+    },
+    {
+      "name": "SUNRISE",
+      "summary": "EU-funded cooperation project. Dissemination of results on the application and development of an autograder in programming education at other universities within the Europe-wide project alliance",
+      "startDate": "2024-10",
+      "endDate": "2025-09",
+      "url": "https://sunrise-alliance.eu/"
     }
   ],
   "languages": [
@@ -218,7 +268,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (C1)",
       "icon": ""
     }
   ],
@@ -231,7 +281,7 @@
         "Unsupervised Learning",
         "Deep Learning",
         "Natural Language Processing",
-        "XGBoost",
+        "XGBoost-Algorithm",
         "Explainable AI",
         "Generative AI",
         "Large Language Models",
@@ -292,6 +342,15 @@
       "highlights": [
         "Advancing from the 'Landesliga' to the 'Oberliga' in the 2023/2024 season"
       ]
+    },
+    {
+      "organization": "Initiative Solidarische Welt Ilmenau (ISWI)",
+      "location": "Ilmenau, Germany",
+      "position": "Organizer",
+      "url": "https://iswi.org/aktuelles/",
+      "startDate": "2018-04",
+      "endDate": "2019-07",
+      "summary": "Organization of workshops for students to exchange ideas about different cultures from around the world."
     }
   ]
 }
