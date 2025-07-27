@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is my Curriculum Vitae.",
+          description: "This is my Curriculum Vitae. You can also download the PDF directly.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -42,16 +42,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-m-delighted-to-say-that-i-successfully-completed-my-master-s-degree-and-master-s-thesis-with-a-grade-of-1-3",
+          title: 'I’m delighted to say that I successfully completed my master’s degree and master’s...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-my-new-job-amp-start-of-my-phd",
+          title: 'My new job &amp;amp; start of my PhD 🎉',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/new_job_and_phd/";
+            },},{id: "news-i-m-happy-to-say-that-i-ve-just-started-working-also-at-the-group-for-information-and-knowledge-management",
+          title: 'I’m happy to say that I’ve just started working also at the Group...',
+          description: "",
+          section: "News",},{id: "news-nominated-for-the-best-paper-at-the-wsc-2023",
+          title: 'Nominated for the best paper at the WSC 2023. 🙌',
+          description: "",
+          section: "News",},{id: "news-i-m-happy-to-say-that-i-ve-just-turned-in-my-phd-thesis-the-defense-of-the-dissertation-will-probably-take-place-at-the-end-of-september",
+          title: 'I’m happy to say that I’ve just turned in my PhD thesis! 🎉🥸📝...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
