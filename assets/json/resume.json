@@ -228,6 +228,13 @@
   ],
   "projects": [
     {
+      "name": "SUNRISE",
+      "summary": "EU-funded cooperation project. Dissemination of results on the application and development of an autograder in programming education at other universities within the Europe-wide project alliance",
+      "startDate": "2024-10",
+      "endDate": "2025-09",
+      "url": "https://sunrise-alliance.eu/"
+    },
+    {
       "name": "AutoPING",
       "summary": "AutoPING demonstrates how modern programming education can be made more efficient and practical through automated assessment systems such as CodeOcean. The project promotes digital, competence-oriented learning, AI integration, and modular critical testing scenarios—valuable impetus for the further development of teaching at TU Ilmenau and beyond.",
       "highlights": [
@@ -251,13 +258,6 @@
       "startDate": "2020-01-01",
       "endDate": "2021-12-31",
       "url": "https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-maschinenbau/profil/institute-und-fachgebiete/fachgebiet-informationstechnik-in-produktion-und-logistik/projekte/dawis"
-    },
-    {
-      "name": "SUNRISE",
-      "summary": "EU-funded cooperation project. Dissemination of results on the application and development of an autograder in programming education at other universities within the Europe-wide project alliance",
-      "startDate": "2024-10",
-      "endDate": "2025-09",
-      "url": "https://sunrise-alliance.eu/"
     }
   ],
   "languages": [
